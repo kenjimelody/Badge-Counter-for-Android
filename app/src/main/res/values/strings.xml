@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test BadgeCount</string>
+    <string name="action_inbox">Inbox</string>
+</resources>

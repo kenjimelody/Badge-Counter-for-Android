@@ -1,0 +1,14 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_home_inbox"
+        android:title="@string/action_inbox"
+        android:icon="@mipmap/icon_top_mail"
+        android:actionLayout="@layout/view_toolbar_badge"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
