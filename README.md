@@ -1,1 +1,2 @@
-<Strong>Make Bagde Counter without Third party's library</Strong>
+<Strong>Make Bagde Counter without Third party's library</Strong><BR/>
+<img src="https://github.com/kenjimelody/Badge-Counter-for-Android/blob/master/screenshot/Screenshot_2015-11-18-12-04-51.png?raw=true" border="0"/>
